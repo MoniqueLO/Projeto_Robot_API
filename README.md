@@ -1,9 +1,9 @@
-Projeto_Robot_API
-Este projeto visa demonstrar habilidades e conhecimentos em automação de testes API usando o Robot Framework.
-Foi utilizado um site para estudos, o ServeRest. Sua documentação foi utilizada como referência para validação de cenários de teste de API.
+#Projeto_Robot_API
+Este projeto visa demonstrar habilidades e conhecimentos em automação de testes API usando o Robot Framework.<br/>
+Foi utilizado um site para estudos, o ServeRest. Sua documentação foi utilizada como referência para validação de cenários de teste de API.<br/>
 Neste projeto foi automatizado os testes de login.
 
-Instalações e configurações
+#Instalações e configurações
 Instalar Python (verificar path nas variáveis de ambiente).
 Instalar RobotFramework.
 Instalar libraries
