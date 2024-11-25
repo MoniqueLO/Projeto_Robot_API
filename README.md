@@ -1,7 +1,7 @@
 # Projeto_Robot
 Este projeto visa demonstrar habilidades e conhecimentos em automação de testes API usando o Robot Framework.<br/>
 Foi utilizado a documentação da API ServeRest como referência para as validaçãoes realizadas.<br/>
-Neste projeto, foi realizada a automação dos cenários de teste do login.
+Neste projeto, foi realizada a automação dos cenários de teste do login e criação de usuario.
 
 # Instalações e configurações
 
